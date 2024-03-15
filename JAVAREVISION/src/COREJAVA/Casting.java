@@ -17,12 +17,14 @@ public class Casting {
 	 
 	int c=(int)d;
 	 System.out.println(c);
+	 //narrowing
 	 
 	 
 	 int num=123;
 	 double d1=num;
 	 System.out.println(num);
 	 System.out.println(d1);
+	 //widening
 	 
 }
 }
